@@ -3,6 +3,7 @@ import data
 #b = len(data.question_data)
 #print(b)
 #print(data.question_data)
+#hello
 score=0
 question=1
 for a in data.question_data:
